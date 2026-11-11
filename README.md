@@ -40,7 +40,7 @@ retinal-oct-convnext/
 ├── README.md                      # Project documentation and setup guide
 ├── requirements.txt               # Dependencies
 ├── .gitignore                     # Git ignore rules for checkpoints and datasets
-└── experiments/
+└── workflows/
     ├── 01_oct_preprocessing_pipeline.ipynb
     ├── 02_convnext_baseline_training.ipynb
     ├── 03_convnext_coordinate_attention_proposed.ipynb
