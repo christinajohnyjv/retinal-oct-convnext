@@ -218,3 +218,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Deep Learning Weights & Checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Large Preprocessed Data Arrays
+*.npy
+*.npz
+
+# Datasets and Images
+data/
+dataset/
+OCTDL/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
